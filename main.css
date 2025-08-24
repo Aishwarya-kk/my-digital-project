@@ -1,0 +1,72 @@
+
+body{
+    width:700px;
+    height: 700px;
+     background-image: url("https://img.freepik.com/premium-photo/burning-clock-black-background-time-concept-vector-illustration_1015980-346063.jpg");
+    background-size:contain;
+    overflow: scroll;
+}
+h1{
+   
+    color: aliceblue;
+    
+   
+}
+h2{
+   
+    color: aliceblue;
+}
+h3{
+   
+    color: aliceblue;
+}
+div{
+    
+    margin-left: 720px;
+    margin-top: 60px;
+    font-family: Georgia, serif;
+}
+h4{
+    color: aliceblue;
+}
+h5{
+    color: aliceblue;
+}
+h1:hover{
+   
+    color: aliceblue;
+    font-weight: bold;
+}
+h2:hover{
+   
+    color: aliceblue;
+     font-weight: bold;
+}
+h3:hover{
+   
+    color: aliceblue;
+     font-weight: bold;
+}
+h4:hover{
+   
+    color: aliceblue;
+     box-shadow: 2px 2px 20px white;
+      font-weight: bold;
+}
+h5:hover{
+   
+    color: aliceblue;
+     font-weight: bold;
+}
+button a{
+    text-decoration: none;
+}
+button a:hover{
+    text-decoration: none;
+    font-size: larger;
+    box-sizing: initial;
+    box-shadow: 3px 3px 30px black;
+}
+button{
+    box-shadow: 2px 2px 20px white;
+}

@@ -1,0 +1,78 @@
+
+.clock-container{
+    width:350px;
+    height: 180px;
+    border-radius: 30%;
+  margin: 120px;
+   background: black;
+   color: white;
+    box-shadow: 3px 3px 80px rgb(150, 146, 145);
+     background-image: url("https://wallpaperaccess.com/full/1595920.jpg");
+  
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin:50px;
+    background-color:white;
+    color: black;
+     background-image: url("https://img.freepik.com/premium-photo/hourglass-isolated-black-background-time-concept-right-space-text-caption_762686-4069.jpg");
+}
+.clock{
+   display: flex;
+   justify-content: center;
+   margin-top:20px;
+   font-size: 40px;
+   font-weight:bold;
+   font-family: 'Orbitron',sans-serif;
+   letter-spacing: 2px;
+   
+
+
+}
+.btn {
+margin-left:30%;
+}
+
+
+#date{
+     display: flex;
+   justify-content: center;
+ 
+       font-family:sans-serif;
+}
+
+.card{
+  margin-top:80px;
+  box-shadow: 2px 2px 20px white;
+  border-radius: 50%;
+}
+.dark{
+text-decoration: none;
+color: black;
+}
+.card:hover{
+  margin-top:80px;
+  box-shadow: 2px 2px 50px white;
+}
+.clock-container:hover{
+    width:350px;
+    height: 180px;
+    border-radius: 50%;
+  margin: 100px;
+   background: black;
+   color: white;
+    box-shadow: 3px 3px 80px white;
+     background-image: url("https://wallpaperaccess.com/full/1595920.jpg");
+  
+}
+p a{
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: end;
+}
+p a:hover{
+  text-decoration: none;
+  color: white;
+}

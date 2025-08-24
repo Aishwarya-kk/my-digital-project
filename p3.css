@@ -1,0 +1,85 @@
+
+.clock-container{
+    width:400px;
+    height: 200px;
+    border-radius: 30%;
+  margin: 100px;
+   background: white;
+   color:black;
+   box-shadow: 3px 3px 80px rgb(231, 6, 6);
+   
+  
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin:50px;
+    background-color: black;
+    color: white;
+    background-image: url("https://png.pngtree.com/background/20231017/original/pngtree-wasting-time-visualized-3d-render-of-a-water-tap-with-stopwatch-picture-image_5586957.jpg");
+    background-size: contain;
+}
+.clock{
+   display: flex;
+   justify-content: center;
+   margin-top:20px;
+   font-size: 40px;
+   font-weight:bold;
+   font-family: 'Orbitron',sans-serif;
+   letter-spacing: 2px;
+   
+
+
+}
+.btn {
+margin-left:30%;
+}
+
+
+#date{
+     display: flex;
+   justify-content: center;
+ 
+       font-family:sans-serif;
+}
+
+.card{
+  margin-top:80px;
+  box-shadow: 2px 2px 30px black;
+  background-color: black;
+}
+
+.card:hover{
+  margin-top:80px;
+  box-shadow: 2px 2px 40px black;
+}
+
+.clock-container:hover{
+    width:400px;
+    height: 200px;
+    border-radius: 50%;
+  margin: 100px;
+   background: white;
+   color:black;
+   box-shadow: 3px 3px 80px black;
+   
+  
+}
+.light:hover{
+text-decoration: none;
+color: black;
+}
+.light{
+text-decoration: none;
+color: black;
+}
+p a{
+  text-decoration: none;
+  color: black;
+  display: flex;
+  justify-content: end;
+}
+p a:hover{
+  text-decoration: none;
+  color: white;
+}
